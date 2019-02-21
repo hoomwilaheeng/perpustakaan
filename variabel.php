@@ -4,6 +4,6 @@ $umur = 18;
 echo $nama;
 echo"<br/>";
 echo $umur;
-echo"br/>;
+echo"<br/>;
 echo "Pelatihan"
 ?>
